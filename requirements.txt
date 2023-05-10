@@ -4,6 +4,6 @@ openpyxl
 tensorflow
 numpy
 seaborn
-os
+# os
 pickle
 matplotlib
