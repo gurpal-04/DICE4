@@ -5,5 +5,5 @@ tensorflow
 numpy
 seaborn
 # os
-pickle
+# pickle
 matplotlib
