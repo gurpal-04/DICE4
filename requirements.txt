@@ -7,3 +7,4 @@ seaborn
 # os
 # pickle
 matplotlib
+plant_detection_model.pkl
