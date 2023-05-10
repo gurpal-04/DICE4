@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+import pickle
 
 model = pickle.load(open('plant_detection_model.pkl', 'rb'))
 
